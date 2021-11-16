@@ -8,7 +8,7 @@
 - Member : Hector Bonnefoi
 - Member : Maxime Zennaro
 
-## Table of contents
+## Table des matières
 1. [Description du Projet](#description-du-projet)
 2. [Installations](#installation)
 3. [Sources de données complémentaires](#sources-de-donnees)
@@ -16,7 +16,7 @@
 
 ## Description du Projet
 
-Le but du projet est de déterminer à partir de différentes inofmrations récoltées (issues de sondage ou de données collectées) si un utilisateur est suceptible d'utiliser un lave-vaisselle ou préfère laver sa vaisselle à la main. 
+Le but du projet est de déterminer à partir de différentes informations récoltées (issues de sondage ou de données collectées) si un utilisateur est suceptible d'utiliser un lave-vaisselle ou préfère laver sa vaisselle à la main. 
 
 Il s'agit d'un problème de classification binaire sur l'utilisation ou non d'un lave-vaisselle.
 
