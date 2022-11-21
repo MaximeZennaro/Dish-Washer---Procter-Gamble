@@ -44,10 +44,6 @@ or
 - Dureté de l'eau : [Dureté_Eau](https://avenuedeleau.com/news/connaitre-la-durete-de-leau-de-votre-departement)
 
 
-## Support
-- Team : Groupe 4
-- Jupyter NoteBook 
-- dépot_git : [github_Gr4](https://github.com/hectorb222/EI_ST4)
 
 
 
