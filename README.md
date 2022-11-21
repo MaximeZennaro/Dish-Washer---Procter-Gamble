@@ -17,9 +17,7 @@
 ## Description du Projet
 
 Le but du projet est de déterminer à partir de différentes informations récoltées (issues de sondage ou de données collectées) si un utilisateur est suceptible d'utiliser un lave-vaisselle ou préfère laver sa vaisselle à la main. 
-
 Il s'agit d'un problème de classification binaire sur l'utilisation ou non d'un lave-vaisselle.
-
 Le but est de pouvoir ensuite cibler au mieux les consommateurs avec le nouveau produit Fairy PEPS Platinum+.
 
 **NB : Le notebook principal est Classification binaire P&G**
